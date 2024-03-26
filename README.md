@@ -2,6 +2,7 @@
 
 PLEASE READ SO YOU KNOW HOW TO USE THIS PACK!
 
+DROP YOUR REGISTERED QUAKE2 PAKS INTO BASEQ2! OR THIS WILL NOT LOAD. ALSO TYPE CL_DRAWSTRAFEHELPER 1 IN THE CONSOLE 
 
 
 This is my custom pack I have put together for playing on the Quake2 RPG Server. I have pieced this together from various places and I am simply sharing it with other people so they can use it. Let me explain what I included:
@@ -25,7 +26,7 @@ I have put custom binds in the Autoexec.cfg. I have used my binds on the autoexe
 Binds you should be aware of: 
 
 +zoom  (obvious)
-+grapple (Quick Grapple)
++hook (Quick Grapple)
 F is bound to simply use the grappling hook
 Mouse 3 is set to Zoom
 cl_drawstafehelper will enable and disable the strafebar. Please be aware of cl_starfe commands to customize the strafe bar if you so desire. 
@@ -39,3 +40,7 @@ I would like to add Ammo counts on the right side of the screen but I have no id
 Enjoy!
 
 -NightmareZer0
+
+EDITL Since Github is a fucking ree ree I had to upload the files somewhere else. 
+
+FILE LINK: https://pixeldrain.com/u/FhLv9t7o
